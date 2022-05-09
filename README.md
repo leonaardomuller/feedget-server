@@ -16,7 +16,8 @@
 
 
 npx prisma init  
-npx prisma migrate dev
+<!-- Cria as migrations -->
+npx prisma migrate dev asdsad
 npx prisma studio
 
 npm run dev
